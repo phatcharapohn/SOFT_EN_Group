@@ -4,7 +4,7 @@
 
 ## SOFT_EN_Group
 
-![Profile Picture](media/ชื่อ-นามสกุล.jpg)
+![Profile Picture](media/phatcharapohn.jpg)
 
 - **ชื่อ-นามสกุล:** [Phatcharapohn Samienchai]
 - **รหัสนักศึกษา:** [643021330-2]
