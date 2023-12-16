@@ -18,4 +18,12 @@ Narisara Khaowkong, 643020617-7, SEC4, tmxgm
 
 
 
+- **ชื่อ-นามสกุล:** Tham numai
+- **รหัสนักศึกษา:** 643021326-3
+- **Section:** 4
+- **GitHub Username:** tham888
+- **chapter:** []
+![Profile Picture](medai/tham.jpg)
+
+
 
