@@ -36,5 +36,12 @@ Narisara Khaowkong, 643020617-7, SEC4, tmxgm
 ![Profile Picture](medai/tham1.jpg)
 
 ---
+- **ชื่อ-นามสกุล:** Nuttanon Promthaisong
+- **รหัสนักศึกษา:** 643020606-2
+- **Section:** 4
+- **GitHub Username:** NuttanonCSKKU
+- **chapter:** []
+ 
+![Profile Picture](medai/bank1.jpg)
 
 
