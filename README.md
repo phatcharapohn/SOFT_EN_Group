@@ -22,7 +22,7 @@
 
 ---
 
-Na- **ชื่อ-นามสกุล:** Narisara Khaowkong
+- **ชื่อ-นามสกุล:** Narisara Khaowkong
 - **รหัสนักศึกษา:** 643020617-7
 - **Section:** 4
 - **GitHub Username:** tmxgm
