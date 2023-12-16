@@ -22,7 +22,13 @@
 
 ---
 
-Narisara Khaowkong, 643020617-7, SEC4, tmxgm
+Na- **ชื่อ-นามสกุล:** Narisara Khaowkong
+- **รหัสนักศึกษา:** 643020617-7
+- **Section:** 4
+- **GitHub Username:** tmxgm
+- **chapter:** []
+ 
+![Profile Picture](medai/tmxgm.jpg")
 
 ---
 
