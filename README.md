@@ -11,7 +11,14 @@
 
 ---
 
-Marisa Pinkaew, 643021429-3, Sec.4, BamMarisa
+
+- **ชื่อ-นามสกุล:** Marisa Pinkaew
+- **รหัสนักศึกษา:** 643021429-3
+- **Section:** 4
+- **GitHub Username:** BamMarisa
+- **chapter:** []
+ 
+![Profile Picture](medai/Marisa.jpg)
 
 ---
 
