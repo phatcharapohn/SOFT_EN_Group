@@ -28,7 +28,7 @@
 - **GitHub Username:** tmxgm
 - **chapter:** []
  
-![Profile Picture](medai/tmxgm.jpg")
+![Profile Picture](medai/tmxgm.jpg)
 
 ---
 
