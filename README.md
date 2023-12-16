@@ -13,9 +13,11 @@
 
 Marisa Pinkaew, 643021429-3, Sec.4, BamMarisa
 
+---
 
 Narisara Khaowkong, 643020617-7, SEC4, tmxgm
 
+---
 
 
 - **ชื่อ-นามสกุล:** Tham numai
@@ -23,9 +25,9 @@ Narisara Khaowkong, 643020617-7, SEC4, tmxgm
 - **Section:** 4
 - **GitHub Username:** tham888
 - **chapter:** []
-
-- 
+ 
 ![Profile Picture](medai/tham1.jpg)
 
+---
 
 
