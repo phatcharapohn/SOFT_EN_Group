@@ -1,4 +1,4 @@
-# SOFT_EN_Group
+# TeamAgreement
 
 [ข้อตกลงร่วมกันในทีม]
 
