@@ -2,8 +2,6 @@
 
 [Working with Collaborators and Remote Repository]
 
-## SOFT_EN_Group
-
 ![Profile Picture](media/phatcharapohn.jpg)
 
 - **ชื่อ-นามสกุล:** [Phatcharapohn Samienchai]
