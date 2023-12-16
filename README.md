@@ -2,10 +2,10 @@
 
 [Working with Collaborators and Remote Repository]
 
-- **ชื่อ-นามสกุล:** [Phatcharapohn Samienchai]
-- **รหัสนักศึกษา:** [643021330-2]
-- **Section:** [4]
-- **GitHub Username:** [phatcharapohn]
+- **ชื่อ-นามสกุล:** Phatcharapohn Samienchai
+- **รหัสนักศึกษา:** 643021330-2
+- **Section:** 4
+- **GitHub Username:** phatcharapohn
 - **chapter:** []
 ![Profile Picture](medai/phatcharapohn.jpg)
 
