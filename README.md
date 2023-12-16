@@ -23,7 +23,7 @@ Narisara Khaowkong, 643020617-7, SEC4, tmxgm
 - **Section:** 4
 - **GitHub Username:** tham888
 - **chapter:** []
-![Profile Picture](medai/tham.jpg)
+![Profile Picture](medai/tham.png)
 
 
 
